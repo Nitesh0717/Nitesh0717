@@ -17,12 +17,9 @@
 </h3>
 
 <h1 align="center">
-Full Stack Developer
+Full Stack Developer & DevOps Engineer
 </h1>
 
-<h1 align="centre">
-  DevOps & Platform Engineer
-</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/nitesh-singh-23a22a250" target="_blank">
