@@ -17,7 +17,11 @@
 </h3>
 
 <h1 align="center">
-Full Stack Developer & DevOps Engineer
+Full Stack Developer
+</h1>
+
+<h1 align="centre">
+  DevOps & Platform Engineer
 </h1>
 
 <p align="center">
