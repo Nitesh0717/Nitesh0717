@@ -69,10 +69,10 @@
 <!-- Live GitHub Stats Metrics -->
 <div align="center">
   <a href="https://github.com/Nitesh0717">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0717&show_icons=true&theme=dark&bg_color=0D1117&text_color=00FF88&icon_color=00FF88&title_color=ffffff&border_color=30363d" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0717&show_icons=true&theme=radical&bg_color=0D1117&text_color=00FF88&icon_color=00FF88&title_color=ffffff&border_color=30363d" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Nitesh0717">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0717&layout=compact&theme=dark&bg_color=0D1117&text_color=00FF88&icon_color=00FF88&title_color=ffffff&border_color=30363d" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0717&layout=compact&theme=radical&bg_color=0D1117&text_color=00FF88&icon_color=00FF88&title_color=ffffff&border_color=30363d" width="48%" alt="Top Languages" />
   </a>
 </div>
 
@@ -87,37 +87,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff88,100:0d1117&height=100&section=footer" width="100%" />
 </div>
-
-name: generate animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages-action@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
