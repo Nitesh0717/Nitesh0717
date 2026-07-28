@@ -68,8 +68,8 @@
 
 <!-- Live GitHub Stats Metrics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0717&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0717&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitesh0717&show_icons=true&theme=radical&bg_color=0D1117&border_color=30363d" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nitesh0717&layout=compact&theme=radical&bg_color=0D1117&border_color=30363d" width="48%" alt="Top Languages" />
 </p>
 
 <br/>
