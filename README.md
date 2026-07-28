@@ -67,14 +67,10 @@
 </p>
 
 <!-- Live GitHub Stats Metrics -->
-<div align="center">
-  <a href="https://github.com/Nitesh0717">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0717&show_icons=true&theme=radical&bg_color=0D1117&text_color=00FF88&icon_color=00FF88&title_color=ffffff&border_color=30363d" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Nitesh0717">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0717&layout=compact&theme=radical&bg_color=0D1117&text_color=00FF88&icon_color=00FF88&title_color=ffffff&border_color=30363d" width="48%" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh0717&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh0717&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+</p>
 
 <br/>
 
