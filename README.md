@@ -63,23 +63,15 @@
   </picture>
 </p>
 
-<!-- Live Contribution Streak & Summary Chart -->
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Nitesh0717">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh0717&theme=radical&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="100%" alt="GitHub Streak Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Nitesh0717">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitesh0717&theme=radical" width="100%" alt="Profile Summary Details" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Reliable Live Contribution Streak & Summary Chart -->
+<p align="center">
+  <a href="https://github.com/Nitesh0717">
+    <img src="https://streak-stats.demolab.com?user=Nitesh0717&theme=radical&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=30363d" width="48%" alt="GitHub Streak Stats" />
+  </a>
+  <a href="https://github.com/Nitesh0717">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitesh0717&theme=radical" width="48%" alt="Profile Summary Details" />
+  </a>
+</p>
 
 <br/>
 
@@ -90,7 +82,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff88,100:0d1117&height=100&section=footer" width="100%" />
-</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff88,100:0d1117&height=100&section=footer" width="100%" />
 </div>
