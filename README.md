@@ -28,13 +28,6 @@
   </a>
 </p>
 
-<!-- Overview Metrics Card -->
-<p align="center">
-  <a href="https://github.com/Nitesh0717">
-    <img src="https://itshivam.in/api/github-profile?username=Nitesh0717&data=followers,repositories,stars,commits&theme=neon" width="85%" alt="Profile Metrics" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -59,11 +52,15 @@
 
 ---
 
-## 📈 Live Contribution Activity
+## 🐍 Dynamic Contribution Graph
 
-<!-- Live Contribution Snake Animation -->
+<!-- Animated Snake Contribution Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh0717/Nitesh0717/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh0717/Nitesh0717/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitesh0717/Nitesh0717/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nitesh0717/Nitesh0717/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 <!-- Live GitHub Stats Metrics -->
