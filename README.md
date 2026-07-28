@@ -63,11 +63,12 @@
   </picture>
 </p>
 
-<!-- Reliable Live Contribution Streak & Summary Chart -->
+<!-- Live Contribution Streak & Summary Cards -->
 <p align="center">
   <a href="https://github.com/Nitesh0717">
-    <img src="https://streak-stats.demolab.com?user=Nitesh0717&theme=radical&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=30363d" width="48%" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats-five.vercel.app/?user=Nitesh0717&theme=radical&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&border=30363d" width="48%" alt="GitHub Streak Stats" />
   </a>
+  &nbsp;
   <a href="https://github.com/Nitesh0717">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitesh0717&theme=radical" width="48%" alt="Profile Summary Details" />
   </a>
@@ -78,6 +79,12 @@
 <blockquote align="center">
   <i>"Simplicity is the soul of efficiency." — Built to automate, orchestrate, and scale.</i>
 </blockquote>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff88,100:0d1117&height=100&section=footer" width="100%" />
+</div>
 
 ---
 
